@@ -189,8 +189,6 @@ https://live.vkplay.ru/wfliq
 #EXTINF:-1, Muljtfiljmy 24/7
 https://live.vkplay.ru/mezontrop
 
-RT: Vremennye
-
 #EXTINF:-1, Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
@@ -347,8 +345,6 @@ https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Eurosport 2
 rtmp://5.182.229.90//7203
 
-RT: Muzykaljnye
-
 #EXTINF:-1, Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -369,7 +365,6 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Space Shower TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-145
 
 #EXTINF:-1, Stingray Flashback 70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
