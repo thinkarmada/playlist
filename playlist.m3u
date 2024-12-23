@@ -255,8 +255,13 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1, BigBuckBunny - BigBuckBunny
 https://app.koofr.net/content/api/v2/mounts/8955c22a-ae14-4a7c-a4a1-19f2d661de01/files/get?path=%2F16308667905412.mp4
 
-#EXTINF:-1,ElephantsDream - ElephantsDream
+#EXTINF:-1, ElephantsDream - ElephantsDream
 https://app.koofr.net/content/api/v2/mounts/8955c22a-ae14-4a7c-a4a1-19f2d661de01/files/get?path=%2FBolshe.Bena.2008.P1.DVDRip_INTERLIVE.mp4
+
+#EXTINF:-1, Ele
+https://videos2.sendvid.com/b3/7c/rrhze3pw.mp4?validfrom=1734969197&validto=1734983597&rate=200k&ip=95.24.31.250&hash=Ccj5tREAHSFSsKxbgTov9e5AcH8%3D
+
+
 
 #EXTINF:-1, Fox
 https://tvcdnpotok.com/H_Hm1gqv06A1qULRCFRNhQ/569/1734988221/index.m3u8
