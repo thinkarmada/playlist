@@ -75,9 +75,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1, 2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
-#EXTINF:-1, Soloviev Live
-https://player.smotrim.ru/iframe/stream/live_id/63338
-
 #EXTINF:-1, Muz TV
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 
@@ -99,14 +96,8 @@ https://salam-mskth-20.rutube.ru/dive/river-3-320.rutube.ru/LM5lOdtLopEnZzYqmU_i
 #EXTINF:-1, Tvojo TV
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Tvojo TV YUmor
-http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, Smotrim: Detektiv
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1, Goodgame: Fox Kids
-http://hlss.goodgame.ru/hls/205063.m3u8
 
 #EXTINF:-1, Goodgame: Muljtiki
 http://hlss.goodgame.ru/hls/198446.m3u8
@@ -123,6 +114,9 @@ http://hlss.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1, Goodgame: Series TV
 http://hlss.goodgame.ru/hls/186021.m3u8
 
+#EXTINF:-1, Catcast: Kino | Detskoe
+https://v2.catcast.tv/content/38720/index.m3u8
+
 #EXTINF:-1, Goodgame: Film TV
 http://hlss.goodgame.ru/hls/163253.m3u8
 
@@ -132,32 +126,17 @@ http://hlss.goodgame.ru/hls/204722.m3u8
 #EXTINF:-1, Goodgame: Koshmar HD
 http://hlss.goodgame.ru/hls/204709.m3u8
 
-#EXTINF:-1, Goodgame: Strah HD
-http://hlss.goodgame.ru/hls/202127.m3u8
-
-#EXTINF:-1, Goodgame: Akudji TV
-http://hlss.goodgame.ru/hls/5346.m3u8
-
 #EXTINF:-1, Goodgame: FAN
 http://hlss.goodgame.ru/hls/157239.m3u8
 
 #EXTINF:-1, Goodgame: SC TV
 http://hlss.goodgame.ru/hls/61358.m3u8
 
-#EXTINF:-1, Goodgame: Fantastika HD
-http://hlss.goodgame.ru/hls/187241.m3u8
-
-#EXTINF:-1, Catcast: Kino | 18+
-http://v2.catcast.tv/content/40381/index.m3u8
-
 #EXTINF:-1, Catcast: Kino | 1 Int
 http://kino-1.catcast.tv/content/38617/index.m3u8
 
-#EXTINF:-1, Catcast: Kino | Detskoe
-https://v2.catcast.tv/content/38720/index.m3u8
-
-#EXTINF:-1, Catcast: Videokasseta
-https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1, Catcast: Kino | 18+
+http://v2.catcast.tv/content/40381/index.m3u8
 
 #EXTINF:-1, Catcast: KinoHkshen
 https://autopilot.catcast.tv/content/41333/index.m3u8
@@ -171,50 +150,11 @@ https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1, Catcast: KinoDetektiv
 https://autopilot.catcast.tv/content/41327/index.m3u8
 
-#EXTINF:-1, Kinoobzor  24/7
-https://live.vkplay.ru/video_prokat
-
-#EXTINF:-1, Zahodi kino smotretj
-https://live.vkplay.ru/timetomovie
-
-#EXTINF:-1, Smotrim horrory 24/7
-https://live.vkplay.ru/timetohorror
-
-#EXTINF:-1, Serialy 24/7
-https://live.vkplay.ru/lampovoetv
-
-#EXTINF:-1, Muljtfiljmy 24/7
-https://live.vkplay.ru/wfliq
-
-#EXTINF:-1, Muljtfiljmy 24/7
-https://live.vkplay.ru/mezontrop
-
-#EXTINF:-1, Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1, Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
 #EXTINF:-1, Classic Cinema
 https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
 #EXTINF:-1, The Film Detective
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
-
-#EXTINF:-1, Sunset Space
-https://stream.sunset-media.ru:443/Free/Free/3.m3u8
-
-#EXTINF:-1, Sunset Movie
-https://stream.sunset-media.ru:443/Free/Free/1.m3u8
-
-#EXTINF:-1, Sunset Music
-https://stream.sunset-media.ru:443/Free/Free/2.m3u8
-
-#EXTINF:-1, Sunset Kids
-https://stream.sunset-media.ru:443/Free/Free/4.m3u8
-
-#EXTINF:-1, Sunset Anime
-https://stream.sunset-media.ru/Free/Free/5.m3u8
 
 #EXTINF:-1, Goodgame: Chip i Dejjl
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -228,80 +168,17 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1, Pro100 TV
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
-#EXTINF:-1, Muljtimaniya LV
-http://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
-
-#EXTINF:-1, Rodnoe Kino
-https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
-
-#EXTINF:-1, Amedia Premium
-http://91.207.114.220:9001/play/a03u/index.m3u8
-
-#EXTINF:-1, black
-http://91.207.114.220:9001/play/a0cu/index.m3u8
-
-#EXTINF:-1, red
-http://91.207.114.220:9001/play/a0cs/index.m3u8
-
-#EXTINF:-1, sci-fi
-http://91.207.114.220:9001/play/a0ct/index.m3u8
-
-#EXTINF:-1, Shot TV
-http://91.207.114.220:9001/play/a032/index.m3u8
-
-#EXTINF:-1, Dom Kino
-http://91.207.114.220:9001/play/a05r/index.m3u8
-
-#EXTINF:-1, Kto estj kto
-http://91.207.114.220:9001/play/a02u/index.m3u8
-
-#EXTINF:-1, Pobeda
-http://91.207.114.220:9001/play/a0ba/index.m3u8
-
-#EXTINF:-1, Mezzo
-http://91.207.114.220:9001/play/a02h/index.m3u8
-
-#EXTINF:-1, Sovetskoe rodnoe
-http://91.207.115.228:9001/play/a0aq/index.m3u8
-
-#EXTINF:-1, Mosfiljm
-http://185.112.140.28:8080/Mosfilm/index.m3u8
-
-#EXTINF:-1, Retro
-http://178.124.179.122:8088/Retro/index.m3u8
-
-#EXTINF:-1, Nostaljgiya
-http://91.207.114.220:9001/play/a0d2/index.m3u8
-
-#EXTINF:-1, Nasha Tema
-http://91.207.114.220:9001/play/a07i/index.m3u8
-
-#EXTINF:-1, SuperGeroi
-http://91.207.114.220:9001/play/a02y/index.m3u8
-
-#EXTINF:-1, Galaxy
-http://91.207.114.220:9001/play/a06o/index.m3u8
-
 #EXTINF:-1, VHSka
 http://88.218.242.237:8000/play/a00x
 
 #EXTINF:-1, Kinoman
 http://88.218.242.237:8000/play/a002
 
-#EXTINF:-1, Kino bez granic
-http://88.218.242.237:8000/play/a009
-
-#EXTINF:-1, Feniks plyus kino
-http://88.218.242.237:8000/play/a007
-
 #EXTINF:-1, Cartoon Classics
 http://88.218.242.237:8000/play/a00f
 
 #EXTINF:-1, Centraljnoe TV
 http://88.218.242.237:8000/play/a00t
-
-#EXTINF:-1, Kuhnya TV HD
-http://88.218.242.237:8000/play/a00s
 
 #EXTINF:-1, Women’s Magazine
 http://88.218.242.237:8000/play/a00l
@@ -312,20 +189,11 @@ http://88.218.242.237:8000/play/a00k
 #EXTINF:-1, The Explorers
 http://88.218.242.237:8000/play/a00m
 
-#EXTINF:-1, Curiosity Stream
-http://88.218.242.237:8000/play/a00j
-
 #EXTINF:-1, Mir Basketbola
 http://88.218.242.237:8000/play/a00e
 
 #EXTINF:-1, Match! Premjer
 http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
-
-#EXTINF:-1, Setanta Sports 1 HD
-https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Setanta Sports 2 HD
-https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Premier Sports 1
 https://7pal.short.gy/prsport1
@@ -335,9 +203,6 @@ https://7pal.short.gy/prsport2
 
 #EXTINF:-1, Sky Sports Premier League
 https://7pal.short.gy/ssportspl
-
-#EXTINF:-1, Sky Sports F1
-https://7pal.short.gy/ssportsf1
 
 #EXTINF:-1, Eurosport 1
 https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
