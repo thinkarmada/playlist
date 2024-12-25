@@ -319,26 +319,6 @@ https://stream3.shopch.jp/HLS/master.m3u8
 
 
 
-#EXTINF:-1, 1
-https://tvcdnpotok.com/NT1Dbq2uzFEZoNJ4Cbq4CQ/141/1734992062/index.m3u8
-
-#EXTINF:-1, 2
-https://tvcdnpotok.com/Rgu911xoBfgZff0DxL_wIg/142/1734992188/index.m3u8
-
-#EXTINF:-1, 3
-https://tvcdnpotok.com/ZJZuvF-6zU9abhXOizhmUA/140/1734992221/index.m3u8
-
-#EXTINF:-1, 4
-https://tvcdnpotok.com/TVPnc12OJrgBhiBImAVxmg/138/1734992244/index.m3u8
-
-#EXTINF:-1, 5
-https://tvcdnpotok.com/fawbPlzoh8QZdbrXj1ic5A/137/1734992279/index.m3u8
-
-#EXTINF:-1, 6
-http://87.99.87.203:2007/channel/n6c01554b/index.m3u8?q=88c76c60a23785bf0ffdb34dbb1b6122
-
-#EXTINF:-1, 7
-https://tvcdnpotok.com/HcNxt6WmmVnZNqW4KWVFQA/139/1734992349/index.m3u8
 
 
 
@@ -384,7 +364,6 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 rtmp://5.182.229.90//7261
 #EXTINF:-1 ,KinoLiving (EDTV 576p)
 http://109.200.130.123:7537/play/a02k
-#EXTINF:-1 tvg-id="plan-b" tvg-logo="https://iptvx.one/picons/plan-b.png" group-title="Кинозал",Plan B (HD)
 
 #EXTINF:-1 ,PRO100 (EDTV 576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
@@ -397,19 +376,8 @@ http://88.218.242.237:8000/play/a005
 #EXTINF:-1 ,SHOT TV (EDTV 576p)
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 
-
-#EXTINF:-1 tvg-id="start-world" tvg-logo="http://epg.one/img2/6240.png" group-title="Кинозал",Start World (EDTV 576p)
-
-
-
 #EXTINF: ,Trash (HD)
 http://185.23.80.28:8080/TRASH/index.m3u8?token=test
-
-
-#EXTINF:-1 ,Viasat Kino (HD)
-
-#EXTINF:-1,Viasat Kino Action (EDTV 576p)
-
 
 #EXTINF: ,Viasat Kino Comedy (HD ready)
 https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
@@ -421,12 +389,6 @@ http://88.218.242.237:8000/play/a00x
 http://185.50.148.2:7703/TV1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action (EDTV 576p)
 http://185.50.148.2:7703/TV1000Action/index.m3u8
-
-
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Кинозал",Viju TV1000 Action (HD)
-
-#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://iptvx.one/picons/viju-tv1000-novella.png" group-title="Кинозал",Viju TV1000 Новелла (HD)
-
 
 #EXTINF:-1 ,Viju+comedy (HD)
 http://193.242.190.6:8099/202/index.m3u8
@@ -446,10 +408,6 @@ http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
 http://185.23.80.28:8080/Camedi/index.m3u8?token=tva.in.ua
 #EXTINF:-1 ,Комедия (EDTV 576p)
 http://130.193.73.10:8937/play/a03k
-
-
-#EXTINF:-1 tvg-id="komedijnoe-hd" tvg-logo="https://iptvx.one/picons/komedijnoe.png" group-title="Кинозал",Комедийное (HD)
-
 
 #EXTINF:-1 ,Кинеко (HD)
 http://130.193.73.10:8937/play/a03d
@@ -494,12 +452,6 @@ rtmp://5.182.229.90//7260
 http://185.23.80.28:8080/StarCinema/index.m3u8?token=tva.in.ua
 #EXTINF:-1 ,Star Family (EDTV 576p)
 http://185.23.80.28:8080/StarFamily/index.m3u8?token=tva.in.ua
-
-
-
-#EXTINF:-1 ,Start Air (HD)
-
-
 
 #EXTINF:-1 ,Viju TV1000 Русское (EDTV 576p)
 http://185.50.148.2:7703/TV1000RusKino/index.m3u8
