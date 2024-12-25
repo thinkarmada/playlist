@@ -57,12 +57,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1, Mir
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 
-#EXTINF:-1, Che
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-
-#EXTINF:-1, Yu
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-
 #EXTINF:-1, Subbota
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
@@ -71,6 +65,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 
 #EXTINF:-1, Karuselj
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+
+#EXTINF:-1, Cartoon Classics
+http://88.218.242.237:8000/play/a00f
 
 #EXTINF:-1, 2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
@@ -81,20 +78,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1, Match! TV
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
-#EXTINF:-1, Priroda
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-
 #EXTINF:-1, Tvojo TV
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Tvojo TV yumor
 http://de.zigfreed.ru:8080/tvoetv_humor/video.m3u8
-
-#EXTINF:-1, Smotrim: Detektiv
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1, Goodgame: Muljtiki
-http://hlss.goodgame.ru/hls/198446.m3u8
 
 #EXTINF:-1, Goodgame: 1FILMAX
 http://hlss.goodgame.ru/hls/204708.m3u8
@@ -107,9 +95,6 @@ http://hlss.goodgame.ru/hls/187741.m3u8
 
 #EXTINF:-1, Goodgame: Series TV
 http://hlss.goodgame.ru/hls/186021.m3u8
-
-#EXTINF:-1, Catcast: Kino | Detskoe
-https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1, Goodgame: Film TV
 http://hlss.goodgame.ru/hls/163253.m3u8
@@ -126,12 +111,6 @@ http://hlss.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1, Goodgame: SC TV
 http://hlss.goodgame.ru/hls/61358.m3u8
 
-#EXTINF:-1, Catcast: Kino | 1 Int
-http://kino-1.catcast.tv/content/38617/index.m3u8
-
-#EXTINF:-1, Catcast: Kino | 18+
-http://v2.catcast.tv/content/40381/index.m3u8
-
 #EXTINF:-1, Catcast: KinoHkshen
 https://autopilot.catcast.tv/content/41333/index.m3u8
 
@@ -141,20 +120,23 @@ https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1, Catcast: KinoKomediya
 https://autopilot.catcast.tv/content/41331/index.m3u8
 
-#EXTINF:-1, Catcast: KinoDetektiv
-https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1, Kinoman
+http://88.218.242.237:8000/play/a002
 
-#EXTINF:-1, Classic Cinema
-https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1, Lava TV
+http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
 
-#EXTINF:-1, The Film Detective
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+#EXTINF:-1, Fantastika HD
+https://hls.goodgame.ru/hls/204722.m3u8
 
-#EXTINF:-1, Goodgame: Chip i Dejjl
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1, Blokbuster HD
+http://185.23.80.28:8080/Blockbaster/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1, Sunset Music Live
-https://stream.sunset-media.ru/Free/Free/6.m3u8
+#EXTINF:-1, Fan animation
+https://hls.goodgame.ru/hls/157239.m3u8
+
+#EXTINF:-1, Epic Drama
+http://87.99.87.203:2007/channel/n1a5870ba/index.m3u8?q=88c76c60a23785bf0ffdb34dbb1b6122
 
 #EXTINF:-1, Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
@@ -165,23 +147,35 @@ http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1, VHSka
 http://88.218.242.237:8000/play/a00x
 
-#EXTINF:-1, Kinoman
-http://88.218.242.237:8000/play/a002
+#EXTINF:-1, Classic Cinema
+https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
-#EXTINF:-1, Cartoon Classics
-http://88.218.242.237:8000/play/a00f
+#EXTINF:-1, The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 
-#EXTINF:-1, Centraljnoe TV
-http://88.218.242.237:8000/play/a00t
+#EXTINF:-1, Catcast: KinoDetektiv
+https://autopilot.catcast.tv/content/41327/index.m3u8
 
-#EXTINF:-1, Women’s Magazine
-http://88.218.242.237:8000/play/a00l
+#EXTINF:-1, Smotrim: Detektiv
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1, Catcast: Kino | 1 Int
+http://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1, Goodgame: Muljtiki
+http://hlss.goodgame.ru/hls/198446.m3u8
 
 #EXTINF:-1, Big Planet
 http://88.218.242.237:8000/play/a00k
 
 #EXTINF:-1, The Explorers
 http://88.218.242.237:8000/play/a00m
+
+#EXTINF:-1, Women’s Magazine
+http://88.218.242.237:8000/play/a00l
+
+#EXTINF:-1, Midnight Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 
 #EXTINF:-1, Mir Basketbola
 http://88.218.242.237:8000/play/a00e
@@ -204,8 +198,8 @@ https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Eurosport 2
 rtmp://5.182.229.90//7203
 
-#EXTINF:-1, Retro Music Television
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1, Goodgame: Zvuki dozhdya 24/7
+http://hlss.goodgame.ru/hls/198378.m3u8
 
 #EXTINF:-1, 80-90
 http://dancehits80.denvs.ru:8080/index.m3u8
@@ -216,14 +210,8 @@ http://hlss.goodgame.ru/hls/180509.m3u8
 #EXTINF:-1, Goodgame: Retro Music
 http://hlss.goodgame.ru/hls/206244.m3u8
 
-#EXTINF:-1, Goodgame: Zvuki dozhdya 24/7
-http://hlss.goodgame.ru/hls/198378.m3u8
-
-#EXTINF:-1, K-Pop TV Play
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Space Shower TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1, Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1, Stingray Flashback 70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
@@ -234,59 +222,15 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1, Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1, ELECTRO
-https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-
 #EXTINF:-1, FLASHBACK
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 
-#EXTINF:-1, Midnight Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1, ELECTRO
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 
 
 
 
-#EXTINF:-1, Fox
-https://tvcdnpotok.com/H_Hm1gqv06A1qULRCFRNhQ/569/1734988221/index.m3u8
-
-#EXTINF:-1, Fox live
-https://tvcdnpotok.com/YUV1pJjn5Wh40VWwlTGj2Q/568/1734988301/index.m3u8
-
-#EXTINF:-1, Shoking TV
-https://tvcdnpotok.com/kinopokaz1/index.m3u8?wmsAuthSign=6b829991a5193922905f8dbbc95687a0-1734988395-052i13i42i59
-
-#EXTINF:-1, Filmbox
-https://tvcdnpotok.com/WzyOayigx4vCs89jmX8rRg/214/1734988641/index.m3u8
-
-#EXTINF:-1, Lava TV
-http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
-
-#EXTINF:-1, Kinosat
-https://tvcdnpotok.com/iE-buV2ygxkcAfG49vkYMQ/124/1734989764/index.m3u8
-
-#EXTINF:-1, Comedy
-https://tvcdnpotok.com/1WJWBr5xagSYpoN9S36UmA/170/1734988969/index.m3u8
-
-#EXTINF:-1, Fantastika HD
-https://hls.goodgame.ru/hls/204722.m3u8
-
-#EXTINF:-1, Blokbuster HD
-http://185.23.80.28:8080/Blockbaster/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1, Fan animation
-https://hls.goodgame.ru/hls/157239.m3u8
-
-#EXTINF:-1, Epic Drama
-http://87.99.87.203:2007/channel/n1a5870ba/index.m3u8?q=88c76c60a23785bf0ffdb34dbb1b6122
-
-#EXTINF:-1, Fantastic Mystic
-https://hls.goodgame.ru/manifest/187741_master.m3u8
-
-#EXTINF:-1, Filmax2
-https://hls.goodgame.ru/hls/204717.m3u8
-
-#EXTINF:-1, Filmax1
-https://hls.goodgame.ru/hls/204717.m3u8
 
 #EXTINF:-1, 1
 https://tvcdnpotok.com/NT1Dbq2uzFEZoNJ4Cbq4CQ/141/1734992062/index.m3u8
