@@ -132,9 +132,6 @@ https://hls.goodgame.ru/hls/204722.m3u8
 #EXTINF:-1, Blokbuster HD
 http://185.23.80.28:8080/Blockbaster/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1, Fan animation
-https://hls.goodgame.ru/hls/157239.m3u8
-
 #EXTINF:-1, Epic Drama
 http://87.99.87.203:2007/channel/n1a5870ba/index.m3u8?q=88c76c60a23785bf0ffdb34dbb1b6122
 
