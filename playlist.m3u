@@ -76,7 +76,7 @@ http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Nickelodeon/index.m3u8
 #EXTINF:-1 ,Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 ,Мультимания ТВ
+#EXTINF:-1 ,Muljtimaniya TV
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1, Goodgame: Muljtiki
 http://hlss.goodgame.ru/hls/198446.m3u8
@@ -161,38 +161,38 @@ http://193.242.190.6:8099/202/index.m3u8
 http://193.242.190.6:8099/201/index.m3u8
 #EXTINF:-1 ,Viju+premiere (HD)
 http://193.242.190.6:8099/200/index.m3u8
-#EXTINF:-1 ,Еврокино (EDTV 576p)
+#EXTINF:-1 ,Evrokino (EDTV 576p)
 http://86.57.198.251:8181/play/1022/index.m3u8
-#EXTINF:-1 ,Иллюзион+ (EDTV 576p)
+#EXTINF:-1 ,Illyuzion+ (EDTV 576p)
 http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
-#EXTINF:-1 ,Камеди (EDTV 576p)
+#EXTINF:-1 ,Kamedi (EDTV 576p)
 http://185.23.80.28:8080/Camedi/index.m3u8?token=tva.in.ua
-#EXTINF:-1 ,Комедия (EDTV 576p)
+#EXTINF:-1 ,Komediya (EDTV 576p)
 http://130.193.73.10:8937/play/a03k
-#EXTINF:-1 ,Кинеко (HD)
+#EXTINF:-1 ,Kineko (HD)
 http://130.193.73.10:8937/play/a03d
-#EXTINF:-1 ,КиноКомедия (HD ready)
+#EXTINF:-1 ,KinoKomediya (HD ready)
 https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 ,КиноЭкшен (HD)
+#EXTINF:-1 ,KinoHkshen (HD)
 https://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 ,Киноман (nHD)
+#EXTINF:-1 ,Kinoman (nHD)
 http://88.218.242.237:8000/play/a002
-#EXTINF:-1 ,Кино ТВ (HD)
+#EXTINF:-1 ,Kino TV (HD)
 http://193.242.190.6:8099/88/index.m3u8
 #EXTINF:-1 ,Romance (HD)
 http://88.218.242.237:8000/play/a004
 
-#EXTINF:-1 ,Кинопоказ (EDTV 576p)
+#EXTINF:-1 ,Kinopokaz (EDTV 576p)
 http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
-#EXTINF:-1 ,Кинопоказ
+#EXTINF:-1 ,Kinopokaz
 http://31.148.48.15/Kinopokaz/index.m3u8
 
-#EXTINF:-1 ,Любимое кино (EDTV 576p)
+#EXTINF:-1 ,Lyubimoe kino (EDTV 576p)
 http://130.193.73.10:8937/play/a037
-#EXTINF:-1 ,Остросюжетное (HD)
-#EXTINF:-1 ,Премиальное (HD)
+#EXTINF:-1 ,Ostrosyuzhetnoe (HD)
+#EXTINF:-1 ,Premialjnoe (HD)
 rtmp://5.182.229.90//7222
-#EXTINF:-1 ,Кинопремьера HD
+#EXTINF:-1 ,Kinopremjera HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1 ,E!
 https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
@@ -205,7 +205,7 @@ http://87.99.87.203:2007/channel/n1a5870ba/index.m3u8?q=88c76c60a23785bf0ffdb34d
 #EXTINF:-1 ,Abaza TV
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 
-#EXTINF:-1 ,НСТ (EDTV 576p)
+#EXTINF:-1 ,ST (EDTV 576p)
 http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1, Goodgame: Koshmar HD
 http://hlss.goodgame.ru/hls/204709.m3u8
@@ -254,9 +254,9 @@ http://88.218.242.237:8000/play/a00k
 http://88.218.242.237:8000/play/a00m
 #EXTINF:-1 ,National Geographic Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:-1 ,Первый космический
+#EXTINF:-1 ,Pervyjj kosmicheskijj
 http://stream01.vnet.am/Evrika/mono.m3u8
-#EXTINF:-1 ,Мир Белагорья (720p)
+#EXTINF:-1 ,Mir Belagorjya (720p)
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1, Women’s Magazine
 http://88.218.242.237:8000/play/a00l
@@ -314,7 +314,7 @@ https://stream3.shopch.jp/HLS/master.m3u8
 http://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viju+serial (HD)
 http://193.242.190.6:8099/204/index.m3u8
-#EXTINF:-1 ,Дорама (EDTV 576p)
+#EXTINF:-1 ,Dorama (EDTV 576p)
 https://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Classic Cinema
 https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
@@ -324,15 +324,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1, Smotrim: Detektiv
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1 ,КиноДетектив (HD ready)
+#EXTINF:-1 ,KinoDetektiv (HD ready)
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 ,DetectiveJam (HD)
 http://88.218.242.237:8000/play/a00a
-#EXTINF:-1 ,Сапфир (EDTV 576p)
+#EXTINF:-1 ,Sapfir (EDTV 576p)
 http://130.193.73.10:8937/play/a01e
-#EXTINF:-1 ,Кино без границ (EDTV 576p)
+#EXTINF:-1 ,Kino bez granic (EDTV 576p)
 http://185.50.148.2:7703/Detskiy/index.m3u8
-#EXTINF:-1 ,Ретро (EDTV 576p)
+#EXTINF:-1 ,Retro (EDTV 576p)
 http://stream2.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Kinojam 1 (HD)
 rtmp://5.182.229.90//7260
@@ -340,14 +340,19 @@ rtmp://5.182.229.90//7260
 http://185.23.80.28:8080/StarCinema/index.m3u8?token=tva.in.ua
 #EXTINF:-1 ,Star Family (EDTV 576p)
 http://185.23.80.28:8080/StarFamily/index.m3u8?token=tva.in.ua
-#EXTINF:-1 ,Viju TV1000 Русское (EDTV 576p)
+
+#EXTINF:-1 ,Viju TV1000 Russkoe (EDTV 576p)
 http://185.50.148.2:7703/TV1000RusKino/index.m3u8
 #EXTINF:-1 ,viju TV1000 russkoe
 http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,День Победы (HD)
-#EXTINF:-1 ,Дом Кино (EDTV 576p)
+
+#EXTINF:-1 ,Denj Pobedy (HD)
+#EXTINF:-1 ,Dom Kino (EDTV 576p)
 https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:-1 ,Дом кино Премиум (EDTV 576p)
+#EXTINF:-1 ,Dom kino Premium (EDTV 576p)
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Dushevnoe (HD)
+http://193.242.190.6:8099/37/index.m3u8
+
 #EXTINF:-1 ,Душевное (HD)
 http://193.242.190.6:8099/37/index.m3u8
