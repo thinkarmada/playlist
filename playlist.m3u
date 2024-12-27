@@ -91,26 +91,22 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 #EXTINF:-1, Tvojo TV
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Tvojo TV yumor
-http://de.zigfreed.ru:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1, Goodgame: 1FILMAX
 http://hlss.goodgame.ru/hls/204708.m3u8
 #EXTINF:-1, Goodgame: 2FILMAX
 http://hlss.goodgame.ru/hls/204717.m3u8
 #EXTINF:-1, Goodgame: FMC TV
 http://hlss.goodgame.ru/hls/187741.m3u8
-#EXTINF:-1, Goodgame: Series TV
-http://hlss.goodgame.ru/hls/186021.m3u8
 #EXTINF:-1, Goodgame: Film TV
 http://hlss.goodgame.ru/hls/163253.m3u8
 #EXTINF:-1, Goodgame: Fantom HD
 http://hlss.goodgame.ru/hls/204722.m3u8
-
+#EXTINF:-1, Goodgame: Series TV
+http://hlss.goodgame.ru/hls/186021.m3u8
 #EXTINF:-1, Catcast: KinoMistika
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1, Fantastika HD
 https://hls.goodgame.ru/hls/204722.m3u8
-
 #EXTINF:-1, Goodgame: SC TV
 http://hlss.goodgame.ru/hls/61358.m3u8
 #EXTINF:-1, Catcast: KinoHkshen
@@ -127,12 +123,8 @@ http://130.193.73.10:8937/play/a02r
 http://130.193.73.10:8937/play/a03s
 #EXTINF:-1 ,Filmbox Arthouse (EDTV 576p)
 http://130.193.73.10:8937/play/a03t
-
 #EXTINF:-1 ,FX (EDTV 576p)
 http://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 ,Fox
-https://stream01.vnet.am/Fox/mono.m3u8
-
 #EXTINF:-1 ,FX Life (EDTV 576p)
 http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
 #EXTINF:-1 ,HollywooD (EDTV 576p)
@@ -151,8 +143,6 @@ https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 ,Viju TV1000 (HD)
 http://185.50.148.2:7703/TV1000/index.m3u8
-#EXTINF:-1 ,viju TV1000
-http://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Action (EDTV 576p)
 http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 ,Viju+comedy (HD)
@@ -173,20 +163,12 @@ http://130.193.73.10:8937/play/a03k
 http://130.193.73.10:8937/play/a03d
 #EXTINF:-1 ,KinoKomediya (HD ready)
 https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 ,KinoHkshen (HD)
-https://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 ,Kinoman (nHD)
-http://88.218.242.237:8000/play/a002
 #EXTINF:-1 ,Kino TV (HD)
 http://193.242.190.6:8099/88/index.m3u8
 #EXTINF:-1 ,Romance (HD)
 http://88.218.242.237:8000/play/a004
-
 #EXTINF:-1 ,Kinopokaz (EDTV 576p)
-http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
-#EXTINF:-1 ,Kinopokaz
 http://31.148.48.15/Kinopokaz/index.m3u8
-
 #EXTINF:-1 ,Lyubimoe kino (EDTV 576p)
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 ,Ostrosyuzhetnoe (HD)
@@ -204,8 +186,7 @@ http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
 http://87.99.87.203:2007/channel/n1a5870ba/index.m3u8?q=88c76c60a23785bf0ffdb34dbb1b6122
 #EXTINF:-1 ,Abaza TV
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-
-#EXTINF:-1 ,ST (EDTV 576p)
+#EXTINF:-1 ,NST (EDTV 576p)
 http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1, Goodgame: Koshmar HD
 http://hlss.goodgame.ru/hls/204709.m3u8
