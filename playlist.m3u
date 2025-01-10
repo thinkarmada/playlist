@@ -105,29 +105,24 @@ http://hlss.goodgame.ru/hls/204722.m3u8
 http://hlss.goodgame.ru/hls/186021.m3u8
 #EXTINF:-1, Catcast: KinoMistika
 https://autopilot.catcast.tv/content/40783/index.m3u8
-
 #EXTINF:-1, Goodgame: SC TV
 http://hlss.goodgame.ru/hls/61358.m3u8
 #EXTINF:-1, Catcast: KinoHkshen
 https://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1, Catcast: KinoKomediya
 https://autopilot.catcast.tv/content/41331/index.m3u8
-
 #EXTINF:-1 ,Cinema (EDTV 576p)
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, Kinoman
 http://88.218.242.237:8000/play/a002
 #EXTINF:-1, Goodgame: FMC TV
 http://hlss.goodgame.ru/hls/187741.m3u8
-
 #EXTINF:-1 ,HollywooD (EDTV 576p)
 http://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Kinojam 2 (HD)
 rtmp://5.182.229.90//7261
 #EXTINF:-1 ,KinoLiving (EDTV 576p)
 http://109.200.130.123:7537/play/a02k
-
 #EXTINF:-1 ,KinoKomediya (HD ready)
 https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 ,Kino TV (HD)
@@ -136,12 +131,10 @@ http://193.242.190.6:8099/88/index.m3u8
 http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 ,Kinopremjera HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
-
 #EXTINF:-1 ,SHOT TV (EDTV 576p)
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 #EXTINF: ,Trash (HD)
 http://185.23.80.28:8080/TRASH/index.m3u8?token=test
-
 #EXTINF:-1 ,Kino 24 (EDTV 576p)
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,PRO100 (EDTV 576p)
@@ -153,7 +146,6 @@ https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 #EXTINF:-1, CBS2
 https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
 
-
 #EXTINF:-1 ,Viasat Kino World (EDTV 480p)
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 ,Viju TV1000 (HD)
@@ -164,7 +156,6 @@ http://185.50.148.2:7703/TV1000Action/index.m3u8
 http://193.242.190.6:8099/200/index.m3u8
 #EXTINF: ,Viasat Kino Comedy (HD ready)
 https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
-
 #EXTINF:-1, Lava TV
 http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
 #EXTINF:-1, Blokbuster HD
