@@ -80,11 +80,12 @@ https://stream01.vnet.am/Boomerang/mono.m3u8
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1, Goodgame: Muljtiki
 http://hlss.goodgame.ru/hls/198446.m3u8
-
 #EXTINF:-1, Goodgame: FAN
 http://hlss.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 ,FAN (EDTV 576p)
 http://109.200.130.123:7537/play/a02a
+#EXTINF:-1 ,E!
+https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
 
 #EXTINF:-1, 2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
@@ -95,8 +96,7 @@ http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 http://hlss.goodgame.ru/hls/204708.m3u8
 #EXTINF:-1, Goodgame: 2FILMAX
 http://hlss.goodgame.ru/hls/204717.m3u8
-#EXTINF:-1, Goodgame: FMC TV
-http://hlss.goodgame.ru/hls/187741.m3u8
+
 #EXTINF:-1, Goodgame: Film TV
 http://hlss.goodgame.ru/hls/163253.m3u8
 #EXTINF:-1, Goodgame: Fantom HD
@@ -105,18 +105,106 @@ http://hlss.goodgame.ru/hls/204722.m3u8
 http://hlss.goodgame.ru/hls/186021.m3u8
 #EXTINF:-1, Catcast: KinoMistika
 https://autopilot.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1, Fantastika HD
-https://hls.goodgame.ru/hls/204722.m3u8
+
 #EXTINF:-1, Goodgame: SC TV
 http://hlss.goodgame.ru/hls/61358.m3u8
 #EXTINF:-1, Catcast: KinoHkshen
 https://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1, Catcast: KinoKomediya
 https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1, Kinoman
-http://88.218.242.237:8000/play/a002
+
 #EXTINF:-1 ,Cinema (EDTV 576p)
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Kinoman
+http://88.218.242.237:8000/play/a002
+#EXTINF:-1, Goodgame: FMC TV
+http://hlss.goodgame.ru/hls/187741.m3u8
+
+#EXTINF:-1 ,HollywooD (EDTV 576p)
+http://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Kinojam 2 (HD)
+rtmp://5.182.229.90//7261
+#EXTINF:-1 ,KinoLiving (EDTV 576p)
+http://109.200.130.123:7537/play/a02k
+
+#EXTINF:-1 ,KinoKomediya (HD ready)
+https://autopilot.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 ,Kino TV (HD)
+http://193.242.190.6:8099/88/index.m3u8
+#EXTINF:-1 ,Kinopokaz (EDTV 576p)
+http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1 ,Kinopremjera HD
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+
+#EXTINF:-1 ,SHOT TV (EDTV 576p)
+http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
+#EXTINF: ,Trash (HD)
+http://185.23.80.28:8080/TRASH/index.m3u8?token=test
+
+#EXTINF:-1 ,Kino 24 (EDTV 576p)
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 ,PRO100 (EDTV 576p)
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1, VHSka
+http://88.218.242.237:8000/play/a00x
+#EXTINF:-1, CBS1
+https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
+#EXTINF:-1, CBS2
+https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
+
+
+#EXTINF:-1 ,Viasat Kino World (EDTV 480p)
+https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:-1 ,Viju TV1000 (HD)
+http://185.50.148.2:7703/TV1000/index.m3u8
+#EXTINF:-1 ,Viju TV1000 Action (EDTV 576p)
+http://185.50.148.2:7703/TV1000Action/index.m3u8
+#EXTINF:-1 ,Viju+premiere (HD)
+http://193.242.190.6:8099/200/index.m3u8
+#EXTINF: ,Viasat Kino Comedy (HD ready)
+https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
+
+#EXTINF:-1, Lava TV
+http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
+#EXTINF:-1, Blokbuster HD
+http://185.23.80.28:8080/Blockbaster/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 ,Evrokino (EDTV 576p)
+http://86.57.198.251:8181/play/1022/index.m3u8
+#EXTINF:-1 ,Lyubimoe kino (EDTV 576p)
+http://130.193.73.10:8937/play/a037
+#EXTINF:-1 ,Romance (HD)
+http://88.218.242.237:8000/play/a004
+
+#EXTINF:-1 ,Illyuzion+ (EDTV 576p)
+http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
+#EXTINF:-1 ,Kamedi (EDTV 576p)
+http://185.23.80.28:8080/Camedi/index.m3u8?token=tva.in.ua
+
+#EXTINF:-1 ,Kineko (HD)
+http://130.193.73.10:8937/play/a03d
+#EXTINF:-1 ,Ostrosyuzhetnoe (HD)
+#EXTINF:-1 ,Premialjnoe (HD)
+rtmp://5.182.229.90//7222
+#EXTINF:-1, Epic Drama
+http://87.99.87.203:2007/channel/n1a5870ba/index.m3u8?q=88c76c60a23785bf0ffdb34dbb1b6122
+
+#EXTINF:-1,NST (EDTV 576p)
+http://stream01.vnet.am/Channel_125/mono.m3u8
+#EXTINF:-1, Goodgame: Koshmar HD
+http://hlss.goodgame.ru/hls/204709.m3u8
+#EXTINF:-1 ,Scream (HD)
+http://88.218.242.237:8000/play/a00c
+#EXTINF:-1, Suspense (HD)
+http://88.218.242.237:8000/play/a005
+
+#EXTINF:-1 ,.black (EDTV 576p)
+http://109.200.130.123:7537/play/a02s
+#EXTINF:-1 ,.red (EDTV 576p)
+http://178.124.152.238:8088/sony
+#EXTINF:-1 ,.sci-fi (EDTV 576p)
+http://130.193.73.10:8937/play/a02q
 #EXTINF:-1 ,FlixSnip (EDTV 576p)
 http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 ,Filmbox (EDTV 576p)
@@ -127,79 +215,6 @@ http://130.193.73.10:8937/play/a03t
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 ,FX Life (EDTV 576p)
 http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
-#EXTINF:-1 ,HollywooD (EDTV 576p)
-http://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Kinojam 2 (HD)
-rtmp://5.182.229.90//7261
-#EXTINF:-1 ,KinoLiving (EDTV 576p)
-http://109.200.130.123:7537/play/a02k
-#EXTINF:-1 ,SHOT TV (EDTV 576p)
-http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
-#EXTINF: ,Trash (HD)
-http://185.23.80.28:8080/TRASH/index.m3u8?token=test
-#EXTINF: ,Viasat Kino Comedy (HD ready)
-https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
-#EXTINF:-1 ,Viasat Kino World (EDTV 480p)
-https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-#EXTINF:-1 ,Viju TV1000 (HD)
-http://185.50.148.2:7703/TV1000/index.m3u8
-#EXTINF:-1 ,Viju TV1000 Action (EDTV 576p)
-http://185.50.148.2:7703/TV1000Action/index.m3u8
-#EXTINF:-1 ,Viju+comedy (HD)
-http://193.242.190.6:8099/202/index.m3u8
-#EXTINF:-1 ,Viju+megahit (HD)
-http://193.242.190.6:8099/201/index.m3u8
-#EXTINF:-1 ,Viju+premiere (HD)
-http://193.242.190.6:8099/200/index.m3u8
-#EXTINF:-1 ,Evrokino (EDTV 576p)
-http://86.57.198.251:8181/play/1022/index.m3u8
-#EXTINF:-1 ,Illyuzion+ (EDTV 576p)
-http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
-#EXTINF:-1 ,Kamedi (EDTV 576p)
-http://185.23.80.28:8080/Camedi/index.m3u8?token=tva.in.ua
-#EXTINF:-1 ,Komediya (EDTV 576p)
-http://130.193.73.10:8937/play/a03k
-#EXTINF:-1 ,Kineko (HD)
-http://130.193.73.10:8937/play/a03d
-#EXTINF:-1 ,KinoKomediya (HD ready)
-https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 ,Kino TV (HD)
-http://193.242.190.6:8099/88/index.m3u8
-#EXTINF:-1 ,Romance (HD)
-http://88.218.242.237:8000/play/a004
-#EXTINF:-1 ,Kinopokaz (EDTV 576p)
-http://31.148.48.15/Kinopokaz/index.m3u8
-#EXTINF:-1 ,Lyubimoe kino (EDTV 576p)
-http://130.193.73.10:8937/play/a037
-#EXTINF:-1 ,Ostrosyuzhetnoe (HD)
-#EXTINF:-1 ,Premialjnoe (HD)
-rtmp://5.182.229.90//7222
-#EXTINF:-1 ,Kinopremjera HD
-http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:-1 ,E!
-https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
-#EXTINF:-1, Blokbuster HD
-http://185.23.80.28:8080/Blockbaster/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, Lava TV
-http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
-#EXTINF:-1, Epic Drama
-http://87.99.87.203:2007/channel/n1a5870ba/index.m3u8?q=88c76c60a23785bf0ffdb34dbb1b6122
-#EXTINF:-1 ,Abaza TV
-https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-#EXTINF:-1 ,NST (EDTV 576p)
-http://stream01.vnet.am/Channel_125/mono.m3u8
-#EXTINF:-1, Goodgame: Koshmar HD
-http://hlss.goodgame.ru/hls/204709.m3u8
-#EXTINF:-1 ,Scream (HD)
-http://88.218.242.237:8000/play/a00c
-#EXTINF:-1 , Suspense (HD)
-http://88.218.242.237:8000/play/a005
-#EXTINF:-1 ,.black (EDTV 576p)
-http://109.200.130.123:7537/play/a02s
-#EXTINF:-1 ,.red (EDTV 576p)
-http://178.124.152.238:8088/sony
-#EXTINF:-1 ,.sci-fi (EDTV 576p)
-http://130.193.73.10:8937/play/a02q
 #EXTINF:-1 ,Amedia 1 (EDTV 576p)
 http://stream01.vnet.am/Channel_128/mono.m3u8
 #EXTINF:-1 ,Amedia 1
@@ -212,22 +227,8 @@ http://31.148.48.15/A2/index.m3u8
 http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 ,Amedia Premium (HD)
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
-
-#EXTINF:-1 ,Kino 24 (EDTV 576p)
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-
-#EXTINF:-1 ,PRO100 (EDTV 576p)
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-
-#EXTINF:-1, VHSka
-http://88.218.242.237:8000/play/a00x
-
-#EXTINF:-1, CBS1
-https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
-
-#EXTINF:-1, CBS2
-https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
-
+#EXTINF:-1 ,Abaza TV
+https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 
 #EXTINF:-1, Big Planet
 http://88.218.242.237:8000/play/a00k
@@ -243,26 +244,6 @@ http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 http://88.218.242.237:8000/play/a00l
 #EXTINF:-1, Midnight Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-
-
-
-#EXTINF:-1, Mir Basketbola
-http://88.218.242.237:8000/play/a00e
-#EXTINF:-1, Match! TV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1, Match! Premjer
-http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
-#EXTINF:-1, Premier Sports 1
-https://7pal.short.gy/prsport1
-#EXTINF:-1, Premier Sports 2
-https://7pal.short.gy/prsport2
-#EXTINF:-1, Sky Sports Premier League
-https://7pal.short.gy/ssportspl
-#EXTINF:-1, Eurosport 1
-https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Eurosport 2
-rtmp://5.182.229.90//7203
-
 
 #EXTINF:-1, Goodgame: Zvuki dozhdya 24/7
 http://hlss.goodgame.ru/hls/198378.m3u8
@@ -290,6 +271,22 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 
 
+#EXTINF:-1, Mir Basketbola
+http://88.218.242.237:8000/play/a00e
+#EXTINF:-1, Match! TV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1, Match! Premjer
+http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
+#EXTINF:-1, Premier Sports 1
+https://7pal.short.gy/prsport1
+#EXTINF:-1, Premier Sports 2
+https://7pal.short.gy/prsport2
+#EXTINF:-1, Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1, Eurosport 1
+https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Eurosport 2
+rtmp://5.182.229.90//7203
 
 #EXTINF:-1 ,BollywooD (HD ready)
 http://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
@@ -321,6 +318,9 @@ rtmp://5.182.229.90//7260
 http://185.23.80.28:8080/StarCinema/index.m3u8?token=tva.in.ua
 #EXTINF:-1 ,Star Family (EDTV 576p)
 http://185.23.80.28:8080/StarFamily/index.m3u8?token=tva.in.ua
+
+#EXTINF:-1 ,Komediya (EDTV 576p)
+http://130.193.73.10:8937/play/a03k
 
 #EXTINF:-1 ,Viju TV1000 Russkoe (EDTV 576p)
 http://185.50.148.2:7703/TV1000RusKino/index.m3u8
