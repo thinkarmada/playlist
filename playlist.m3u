@@ -79,8 +79,13 @@ http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
 #EXTINF:-1 ,Lyubimoe kino (EDTV 576p)
 http://130.193.73.10:8937/play/a037
 
+
 #EXTINF:-1 ,Viju+premiere (HD)
 http://193.242.190.6:8099/200/index.m3u8
+
+#EXTINF:-1, Kinoman
+http://88.218.242.237:8000/play/a002
+
 
 #EXTINF:-1 ,Romance (HD)
 http://88.218.242.237:8000/play/a004
