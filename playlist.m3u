@@ -24,8 +24,6 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 ,Kinopremjera HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:-1, Lava TV
-http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
 #EXTINF:-1 ,SHOT TV (EDTV 576p)
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 #EXTINF: ,Trash (HD)
@@ -167,14 +165,29 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 ,NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 ,日テレNEWS24 Ⓢ
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 ,GSTV
 https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
 #EXTINF:-1 ,QVC Japan (720p)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 ,Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1,Kanade (1080p)
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
+#EXTINF:-1,NHK G (Tokyo) (540p) [Not 24/7]
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1,NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1,NHK World Premium (720p) [Not 24/7]
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+#EXTINF:-1,Nippon TV (540p) [Not 24/7]
+https://ntv4.mov3.co/hls/ntv.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1, Mir Basketbola
@@ -243,12 +256,7 @@ http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 ,Mir Belagorjya (720p)
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 
-#EXTINF:-1, Pervij
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1, Rossiya 1
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1, Rossiya K
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+
 #EXTINF:-1, Rossiya 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1, NTV
@@ -257,8 +265,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1, TNT4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1, Ren TV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1, STS
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1, STS Love
@@ -271,10 +277,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1,  Pyatnica
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1, Zvezda
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1, TV Centr
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1, OTR
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1, Spas
@@ -309,4 +311,15 @@ http://109.200.130.123:7537/play/a02a
 https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
 #EXTINF:-1, 2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-
+#EXTINF:-1, TV Centr
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1, Pervij
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1, Rossiya 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1, Rossiya K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1, Ren TV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1, Zvezda
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
