@@ -45,7 +45,11 @@ https://vsd175.okcdn.ru/dash/stream_7254282603063/stream.manifest/sig/uPZZ7Tiare
 #EXTINF:-1, VHSka
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=40675&token=e63f786405054d080545af3e37d849e0
 
+#EXTINF:-1, Anime24
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40954&token=a3c9a03f86e14ca6c047d54e7f418e52
 
+#EXTINF:-1, MV TV
+https://vsd250.okcdn.ru/cmaf/7698873453222/sig/zrZ3kg2QD2g/expires/1739022536883/srcIp/89.187.169.72/urls/45.136.21.61/clientType/36/srcAg/GECKO/mid/9327421179814/get/dash_9327421179814.ziIp8v0u2Co.mpd
 
 
 #EXTINF:-1, CBS1
