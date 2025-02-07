@@ -34,6 +34,20 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1, VHSka
 http://88.218.242.237:8000/play/a00x
+
+
+
+
+#EXTINF:-1, VHSka
+https://vsd235.okcdn.ru/cmaf/8060840446514/sig/kcRFosGCbbc/expires/1739021201865/srcIp/89.187.169.72/urls/45.136.20.59/clientType/36/srcAg/GECKO/mid/11100759934770/get/dash_11100759934770.tHpvhW2Xb1o.mpd
+#EXTINF:-1, VHSka
+https://vsd175.okcdn.ru/dash/stream_7254282603063/stream.manifest/sig/uPZZ7Tiarek/expires/1739020666499/srcIp/89.187.169.72/urls/185.226.53.70/clientType/0/srcAg/GECKO/mid/7731200663095/video?_rnd=431318104
+#EXTINF:-1, VHSka
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40675&token=e63f786405054d080545af3e37d849e0
+
+
+
+
 #EXTINF:-1, CBS1
 https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 #EXTINF:-1, CBS2
