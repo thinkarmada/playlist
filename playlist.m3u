@@ -148,6 +148,9 @@ http://stream01.vnet.am/Evrika/mono.m3u8
 http://88.218.242.237:8000/play/a00l
 #EXTINF:-1, Midnight Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1,Большая Азия (HD ready)
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, Goodgame: Zvuki dozhdya 24/7
 http://hlss.goodgame.ru/hls/198378.m3u8
@@ -159,6 +162,24 @@ http://hlss.goodgame.ru/hls/180509.m3u8
 http://hlss.goodgame.ru/hls/206244.m3u8
 #EXTINF:-1, Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,1HD (HD)  
+http://31.210.208.171:8080/1hd/index.m3u8?token=+W2MSER  
+#EXTINF:-1,Bridge (EDTV)  
+http://195.26.83.96:7007/play/a00m/index.m3u8  
+#EXTINF:-1,Bridge Classic (EDTV)  
+http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8  
+#EXTINF:-1,Bridge Deluxe (HD ready)  
+http://213.226.137.140:81/tl/l322/index.m3u8  
+#EXTINF:-1,Bridge Rock (EDTV)  
+http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test  
+#EXTINF:-1,Bridge Hits (EDTV)  
+http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test  
+#EXTINF:-1,Bridge Русский хит (EDTV)  
+http://stream01.vnet.am/Channel_115/mono.m3u8  
+#EXTINF:-1,Bridge Шлягер (EDTV)  
+http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test  
+#EXTINF:-1,Clubbing TV (HD ready)  
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 ,Gaki no Tsukai (English Subs) (720p)
