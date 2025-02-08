@@ -64,6 +64,11 @@ https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 ,Kineko (HD)
 http://130.193.73.10:8937/play/a03d
 
+#EXTINF:-1, Plan B
+http://3.troya.info:34000/ch459/mono.m3u8?token=danger05.b-sQEk7BgDPsggqSKy_DYtKpVlO0RS3nim12rP6k_rHadPnylU6GiuAPDx62VimP
+
+
+
 
 #EXTINF:-1, Blokbuster HD
 http://185.23.80.28:8080/Blockbaster/tracks-v1a1/mono.m3u8?token=test
