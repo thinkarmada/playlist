@@ -35,23 +35,6 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1, VHSka
 http://88.218.242.237:8000/play/a00x
 
-
-
-
-#EXTINF:-1, VHSka
-https://vsd235.okcdn.ru/cmaf/8060840446514/sig/kcRFosGCbbc/expires/1739021201865/srcIp/89.187.169.72/urls/45.136.20.59/clientType/36/srcAg/GECKO/mid/11100759934770/get/dash_11100759934770.tHpvhW2Xb1o.mpd
-#EXTINF:-1, VHSka
-https://vsd175.okcdn.ru/dash/stream_7254282603063/stream.manifest/sig/uPZZ7Tiarek/expires/1739020666499/srcIp/89.187.169.72/urls/185.226.53.70/clientType/0/srcAg/GECKO/mid/7731200663095/video?_rnd=431318104
-#EXTINF:-1, VHSka
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40675&token=e63f786405054d080545af3e37d849e0
-
-#EXTINF:-1, Anime24
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40954&token=a3c9a03f86e14ca6c047d54e7f418e52
-
-#EXTINF:-1, MV TV
-https://vsd250.okcdn.ru/cmaf/7698873453222/sig/zrZ3kg2QD2g/expires/1739022536883/srcIp/89.187.169.72/urls/45.136.21.61/clientType/36/srcAg/GECKO/mid/9327421179814/get/dash_9327421179814.ziIp8v0u2Co.mpd
-
-
 #EXTINF:-1, CBS1
 https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 #EXTINF:-1, CBS2
@@ -60,13 +43,8 @@ https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
 #EXTINF:-1 ,Viasat Kino World (EDTV 480p)
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 
-
 #EXTINF:-1 ,Kineko (HD)
 http://130.193.73.10:8937/play/a03d
-
-#EXTINF:-1, Plan B
-http://3.troya.info:34000/ch459/mono.m3u8?token=danger05.b-sQEk7BgDPsggqSKy_DYtKpVlO0RS3nim12rP6k_rHadPnylU6GiuAPDx62VimP
-
 
 
 
